@@ -10,7 +10,7 @@
 ---
 
 ## 📱 Ambiente de Desenvolvimento
-Este projeto foi **100% desenvolvido, testado e validado em um smartphone** (Samsung Galaxy A56 5G), demonstrando que o aprendizado da lógica de programação e a resolução de problemas não dependem de um setup avançado.
+Este projeto foi **100% desenvolvido, testado e validado em um smartphone** (Samsung Galaxy A56 5G) usando o app *Phyton Coding*, demonstrando que o aprendizado da lógica de programação e a resolução de problemas não dependem de um setup avançado.
 
 ---
 
