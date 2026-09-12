@@ -5,7 +5,7 @@
 </p>
 
 > ⚠️ **NOTA SOBRE O DESENVOLVIMENTO:** 
-> Este código poderia estar mais otimizado com a aplicação de **Funções (`def`)**, **Orientação a Objetos (Classes)** e **Laços de Repetição (`while` / `for`)**. No entanto, eu contrui ele assim propositalmente utilizando **apenas** os conceitos estudados até o momento no curso do **LanCode**: *Estruturas Condicionais, Match/Case e Estruturas de Dados (Listas, Tuplas e Dicionários)*. O objetivo foi desafiar minha lógica de programação e criar um sistema CRUD funcional respeitando o meu progresso acadêmico.
+> Este código poderia estar mais otimizado com a aplicação de **Funções (`def`)**, **Orientação a Objetos (Classes)** e **Laços de Repetição (`while` / `for`)**. No entanto, eu construi ele assim propositalmente utilizando **apenas** os conceitos estudados até o momento no curso do **LanCode**: *Estruturas Condicionais, Match/Case e Estruturas de Dados (Listas, Tuplas e Dicionários)*. O objetivo foi desafiar minha lógica de programação e criar um sistema CRUD funcional respeitando o meu progresso acadêmico.
 
 ---
 
